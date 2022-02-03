@@ -1,16 +1,14 @@
-# Air Pollution Group at ISGlobal
+# Welcome
 
-Welcome! This is the GitHub Organization site for the research group led by Cathryn Tonne at ISGlobal. All analyses from the group should be versioned controlled and stored under this site.
-
->**Important**: Confidential data should not be stored in GitHub and therefore should not be version controlled. Contact the GitHub Organization's maintainer when in doubt.
+This is the GitHub Organization site for the research group led by Cathryn Tonne at ISGlobal, where we can easily find and collaborate on source code based projects.
 
 ## Getting Started
 
-
+>**Important**: Confidential data should not be stored in GitHub and therefore should not be version controlled. Make sure the possibly sensitive data files are included in your .gitignore file. Contact the GitHub Organization's maintainer when in doubt.
 
 ### Creating a new repository
 
-1. Create a new private GitHub repo in this organization using the available template at [repo-template](https://github.com/isglobal-airpollution/repo-template).
+1. Create a new private GitHub repo in this organization using the available template at [project-template](https://github.com/isg-airpollution/project-template).
 
 2. Clone this remote repository inside the appropriate network folder path in your machine. If using RStudio, use *`File > New Project > Version Control > Git`*.
 
