@@ -8,7 +8,7 @@ This is the GitHub Organization site for the research group led by Cathryn Tonne
 
 ### Creating a new repository
 
-1. Create a new private GitHub repo in this organization using the available template at [project-template](https://github.com/isg-airpollution/project-template).
+1. Create a new private GitHub repo in this organization using the available template at [repo-template](https://github.com/isg-airpollution/repo-template).
 
 2. Clone this remote repository inside the appropriate network folder path in your machine. If using RStudio, use *`File > New Project > Version Control > Git`*.
 
